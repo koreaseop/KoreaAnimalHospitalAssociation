@@ -1,8 +1,8 @@
-## 한국동물병원협회
+## 한국동물병원협화
 
 한국동물병원협회 리뉴얼 반응형 웹페이지를 제작했습니다.
 
-https://koreaseop.github.io/KoreaAnimalHospitalAssociation/
+https://koreaseop.github.io/korea-animal-hospital/
 
 
 ## 기능 구현
